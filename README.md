@@ -1,4 +1,4 @@
-# q-dev-ide-pluginp-demo
+# q-dev-ide-plugin-demo
 
 ## Basic Use Cases
 - Code Explanation and Documentation
