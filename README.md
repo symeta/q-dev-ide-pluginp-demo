@@ -53,12 +53,51 @@
   <img width="1016" height="734" alt="Screenshot 2025-09-09 at 20 46 47" src="https://github.com/user-attachments/assets/6d6e3ec2-8b52-46df-a0c9-2aa4707afd27" />
   <img width="1018" height="1099" alt="Screenshot 2025-09-09 at 20 46 32" src="https://github.com/user-attachments/assets/466965a5-1a8a-4127-9499-3bdcc89e6410" />
 - app running showcase (snapshot)
-  <img width="1439" height="635" alt="Screenshot 2025-09-09 at 20 47 30" src="https://github.com/user-attachments/assets/a944030b-0d5b-4e20-bf7d-e105c546d077" />
+  <img width="1440" height="636" alt="Screenshot 2025-09-09 at 20 47 08" src="https://github.com/user-attachments/assets/41246d30-d926-4821-b44c-e92fade77983" />
 
+- Prompt 3
+  ```txt
+  generate a readme file for this project
+  ```
+- generated readme file showcase (snapshot)
+  <img width="1193" height="1384" alt="Screenshot 2025-09-09 at 20 54 32" src="https://github.com/user-attachments/assets/ab622179-c905-4c0c-92c8-22d85814bb18" />
 
+- Prompt 4
+  ```txt
+  explain the code logic of main.rs
+  ```
+- generated code logic explanation showcase (snapshot)
+  <img width="1029" height="1161" alt="Screenshot 2025-09-09 at 20 57 16" src="https://github.com/user-attachments/assets/8e108c89-9f0b-4aad-8523-ced44977d43e" />
+- Prompt 5
+  ```txt
+  My team is developing a dashboard to display the status of all IT equipment and facilities. Please generate a list of requirements and preliminary mobile ideas
+  based on this goal, and analyze what AWS services might be needed.
+  ```
+- generated doc showcase (snapshot)
+  <img width="1034" height="892" alt="Screenshot 2025-09-09 at 21 02 01" src="https://github.com/user-attachments/assets/4c621cc8-e52b-4a00-89fb-ad2d8319b3b2" />
+  <img width="1032" height="846" alt="Screenshot 2025-09-09 at 21 02 15" src="https://github.com/user-attachments/assets/3299a045-9855-4dc0-9fd4-3282cd51da52" />
 
+- Prompt 6
+  ```txt
+  after running cargo run, the app interface is displayed, however, the display is not stable, what is the reason? how to fix it?
+  ```
+- q chat process showcase (snapshot)
+  <img width="1032" height="1134" alt="Screenshot 2025-09-09 at 21 06 27" src="https://github.com/user-attachments/assets/6db2cadb-903f-43ff-afb7-f54fa5a34080" />
+- updated app interface showcase (snapshot)
+  <img width="1443" height="480" alt="Screenshot 2025-09-09 at 21 08 06" src="https://github.com/user-attachments/assets/d16960e4-989d-4eed-bb84-7b2609cd8119" />
 
+- Prompt 7
+  ```txt
+  generate a unit test for this project
+  ```
+- q chat process showcase (snapshot)
+  <img width="1027" height="1136" alt="Screenshot 2025-09-09 at 21 11 57" src="https://github.com/user-attachments/assets/e5b9565a-e5d8-48dd-b9fd-74b30c5493ba" />
+  <img width="1005" height="555" alt="Screenshot 2025-09-09 at 21 12 08" src="https://github.com/user-attachments/assets/a097aca8-afb1-4cb9-bc81-1ffe50951085" />
+- unit test running result showcase (snapshot)
+  <img width="994" height="438" alt="Screenshot 2025-09-09 at 21 12 42" src="https://github.com/user-attachments/assets/300faced-77e5-47ad-b9d8-2dce272a8862" />
  
+
+
 
 
   
