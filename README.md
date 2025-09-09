@@ -4,7 +4,7 @@
 - Code Explanation and Documentation
   - An Amazon Q Developer can explain code snippets or entire projects in natural language, making it easier for less technical users to understand what the code does.
   - It can help generate project documentation, user guides, or README files automatically so users can maintain up-to-date resources without manual effort.
-## Project Planning and Design
+- Project Planning and Design
 •	Users can use Q to prepare for meetings by generating lists of requirements or initial design ideas based on project goals, or by asking about AWS services relevant to their project.
 •	It assists in breaking down high-level problems into smaller, manageable tasks, making incremental progress easier for users who may not know best practices off-hand.
 ## Chat-Based Support and Troubleshooting
