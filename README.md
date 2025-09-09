@@ -30,7 +30,7 @@
   around the blackd rectangle with proper terminal cleanup when the application exits
   ```
 - q chat process showcase (snapshots)
-  <img width="1032" height="1116" alt="Screenshot 2025-09-09 at 20 34 10" src="https://github.com/user-attachments/assets/fc189b78-2fa8-43f6-bcb2-09c0e143cd0c" /
+  <img width="1032" height="1116" alt="Screenshot 2025-09-09 at 20 34 10" src="https://github.com/user-attachments/assets/fc189b78-2fa8-43f6-bcb2-09c0e143cd0c" />
   <img width="1023" height="1137" alt="Screenshot 2025-09-09 at 20 34 27" src="https://github.com/user-attachments/assets/043bff15-e255-4466-9689-9611bd073882" />
 - q generated file structure (snapshot)
   <img width="771" height="198" alt="Screenshot 2025-09-09 at 20 36 35" src="https://github.com/user-attachments/assets/940f16e2-2c55-40b1-97be-1d8e97612f55" />
