@@ -19,3 +19,12 @@
   - Step-by-step guidance: Promotes learning by breaking down tasks and offering explainable outputs that users can understand and reuse.
 
 
+## Demo
+
+- Prompt
+  ```txt
+  create a rust terminal application using the crossterm crate that displays the Commodore 64 color palettes (16 colors) as horizontal bars across the terminal
+  screen. The bars should be arranged horizontally with a black rectangle in the center having a 16:9 aspect ratio and covering approximately 20% of the screen area.
+  Define all 16 Commodore 64 colors with their RGB values, calculate terminal dimensions dynamically (making sure the math is right) and ensure the color bars wrap
+  around the blackd rectangle with proper terminal cleanup when the application exits
+  ```
