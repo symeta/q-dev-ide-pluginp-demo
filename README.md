@@ -49,6 +49,14 @@
   digits in magenta at the center of the rectangle. Implement proper error handling to show any AWS connection errors in red text, and ensure the ASCII art digits
   are properly centered within the rectangle.
   ```
+- q chat process showcase (snapshots)
+  <img width="1016" height="734" alt="Screenshot 2025-09-09 at 20 46 47" src="https://github.com/user-attachments/assets/6d6e3ec2-8b52-46df-a0c9-2aa4707afd27" />
+  <img width="1018" height="1099" alt="Screenshot 2025-09-09 at 20 46 32" src="https://github.com/user-attachments/assets/466965a5-1a8a-4127-9499-3bdcc89e6410" />
+- app running showcase (snapshot)
+  <img width="1439" height="635" alt="Screenshot 2025-09-09 at 20 47 30" src="https://github.com/user-attachments/assets/a944030b-0d5b-4e20-bf7d-e105c546d077" />
+
+
+
 
  
 
