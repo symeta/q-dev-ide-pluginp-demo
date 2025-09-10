@@ -14,7 +14,7 @@
   <img width="1082" height="1104" alt="Screenshot 2025-09-10 at 21 17 42" src="https://github.com/user-attachments/assets/b8d0c617-85c3-4629-afe5-a99b15145316" />
   <img width="1078" height="178" alt="Screenshot 2025-09-10 at 21 18 00" src="https://github.com/user-attachments/assets/0f076f95-4935-418f-b15d-23a7ee9378ed" />
 
-  - scriptes generated (snapshot)
+  - scripts generated (snapshot)
   <img width="1076" height="224" alt="Screenshot 2025-09-10 at 21 21 34" src="https://github.com/user-attachments/assets/2fceb078-556b-474a-99a4-049afa67b9d9" />
 
   - run command
@@ -62,7 +62,7 @@
   dash.exceptions.ObsoleteAttributeException: app.run_server has been replaced by app.run. how to solve?
   ```
 
-  - q chat proces show case (snapshot)
+  - q chat process showcase (snapshot)
   <img width="1082" height="440" alt="Screenshot 2025-09-10 at 21 26 59" src="https://github.com/user-attachments/assets/080deccd-e02c-41b6-b665-89bddb2e83e5" />
 
 ## Prompt 4
