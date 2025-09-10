@@ -68,16 +68,8 @@
   ```
 - generated code logic explanation showcase (snapshot)
   <img width="1029" height="1161" alt="Screenshot 2025-09-09 at 20 57 16" src="https://github.com/user-attachments/assets/8e108c89-9f0b-4aad-8523-ced44977d43e" />
-- Prompt 5
-  ```txt
-  My team is developing a dashboard to display the status of all IT equipment and facilities. Please generate a list of requirements and preliminary mobile ideas
-  based on this goal, and analyze what AWS services might be needed.
-  ```
-- generated doc showcase (snapshot)
-  <img width="1034" height="892" alt="Screenshot 2025-09-09 at 21 02 01" src="https://github.com/user-attachments/assets/4c621cc8-e52b-4a00-89fb-ad2d8319b3b2" />
-  <img width="1032" height="846" alt="Screenshot 2025-09-09 at 21 02 15" src="https://github.com/user-attachments/assets/3299a045-9855-4dc0-9fd4-3282cd51da52" />
 
-- Prompt 6
+- Prompt 5
   ```txt
   after running cargo run, the app interface is displayed, however, the display is not stable, what is the reason? how to fix it?
   ```
@@ -86,7 +78,7 @@
 - updated app interface showcase (snapshot)
   <img width="1443" height="480" alt="Screenshot 2025-09-09 at 21 08 06" src="https://github.com/user-attachments/assets/d16960e4-989d-4eed-bb84-7b2609cd8119" />
 
-- Prompt 7
+- Prompt 6
   ```txt
   generate a unit test for this project
   ```
@@ -96,6 +88,14 @@
 - unit test running result showcase (snapshot)
   <img width="994" height="438" alt="Screenshot 2025-09-09 at 21 12 42" src="https://github.com/user-attachments/assets/300faced-77e5-47ad-b9d8-2dce272a8862" />
  
+- Prompt 7
+  ```txt
+  My team is developing a dashboard to display the status of all IT equipment and facilities. Please generate a list of requirements and preliminary mobile ideas
+  based on this goal, and analyze what AWS services might be needed.
+  ```
+- generated doc showcase (snapshot)
+  <img width="1034" height="892" alt="Screenshot 2025-09-09 at 21 02 01" src="https://github.com/user-attachments/assets/4c621cc8-e52b-4a00-89fb-ad2d8319b3b2" />
+  <img width="1032" height="846" alt="Screenshot 2025-09-09 at 21 02 15" src="https://github.com/user-attachments/assets/3299a045-9855-4dc0-9fd4-3282cd51da52" />
 
 
 
