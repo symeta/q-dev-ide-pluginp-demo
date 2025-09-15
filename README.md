@@ -1,4 +1,19 @@
 # q-dev-ide-plugin-demo
+```txt
+generate python scripts that can read the .csv file under current directory, and display the data using multiple line charts, each ticker each chart, using different color. the dashboard should be browser visitable.
+
+add simple moving average line for each ticker
+
+add simple moving average line, time span is 50 days, for each ticker
+
+change the displaying color of ticker ZTS from yellow to blue.
+
+change the displaying color of ZUMZ ticker from light green to dark green, displaying coler of ZQK ticker from light purple to dark purple.
+
+
+```
+
+## Prompts
 
 ## Basic Use Cases
 - Code Explanation and Documentation
